@@ -13,3 +13,9 @@
 <img width="450" alt="image" src="https://github.com/Poulami2515/CNN-basic-architecture-/assets/91011865/274378f3-f6b0-43f5-9c49-9c690e337dba">
 </div>
 
+<br><br>
+- InceptionNet Architecture:
+<div align = "center">
+
+![image](https://github.com/Poulami2515/CNN-basic-architecture-/assets/91011865/6ff4cca8-f738-4ba0-af91-97175deb4042) </div>
+
